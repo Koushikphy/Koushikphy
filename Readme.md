@@ -7,8 +7,7 @@
 ----------------
 
 ![hi](https://komarev.com/ghpvc/?username=koushikphy)  
-![hi](https://github-readme-stats.vercel.app/api?username=koushikphy&count_private=true&show_icons=true)
-![hi](https://github-readme-stats.vercel.app/api/wakatime?username=Koushik_Naskar&layout=compact)
-![hi](https://github-readme-stats.vercel.app/api/top-langs/?username=koushikphy&layout=compact)
-
-![hi](https://github-readme-streak-stats.herokuapp.com/?user=koushikphy) 
+![hi](https://github-readme-stats.vercel.app/api?username=koushikphy&count_private=true&show_icons=true)  
+![hi](https://github-readme-stats.vercel.app/api/wakatime?username=Koushik_Naskar&layout=compact)  
+![hi](https://github-readme-stats.vercel.app/api/top-langs/?username=koushikphy&layout=compact)  
+![hi](https://github-readme-streak-stats.herokuapp.com/?user=koushikphy)   
