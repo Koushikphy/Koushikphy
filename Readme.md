@@ -9,9 +9,9 @@ src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="
 <h3 align='center'>🕵️‍♂️ Busy automating my life 👨‍💻 </h3>  
 
 ----------------
-[![My Trophy](https://github-profile-trophy.vercel.app/?username=koushikphy&theme=nord&margin-w=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![My Trophy](https://github-profile-trophy.vercel.app/?username=koushikphy&theme=nord&margin-w=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)  
 ![hi](https://komarev.com/ghpvc/?username=koushikphy)  
-![hi](https://github-readme-stats.vercel.app/api?username=koushikphy&count_private=true&show_icons=true&theme=dark)  
 ![hi](https://github-readme-stats.vercel.app/api/wakatime?username=Koushik_Naskar&layout=compact&theme=dark)  
 ![hi](https://github-readme-stats.vercel.app/api/top-langs/?username=koushikphy&layout=compact&theme=dark)  
 ![hi](https://github-readme-streak-stats.herokuapp.com/?user=koushikphy&theme=dark)   
+![hi](https://github-readme-stats.vercel.app/api?username=koushikphy&count_private=true&show_icons=true&theme=dark)    
