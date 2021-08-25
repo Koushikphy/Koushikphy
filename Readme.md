@@ -4,6 +4,9 @@
 <h1 align='center'> <img
 src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/'> Koushik Naskar </a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
+<!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=koushikphy.koushikphy&style=flat-square&color=0088cc) -->
+![hi](https://komarev.com/ghpvc/?username=koushikphy)  
+
 <h3 align='center'>Physics ⭐| Mathamatics 💘| Programming 🔥</h3>
 <h3 align='center'>Python 💪| HTML+CSS+JavaScript/ NodeJS 👌 | Fortran ✌️| C 🙏 | Julia 👍</h3>
 <h3 align='center'>🕵️‍♂️ Busy automating my life 👨‍💻 </h3>  
@@ -13,9 +16,23 @@ src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="
 
 <!-- &nbsp; -->
 
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=koushikphy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikphy&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
 
-![hi](https://github-readme-stats.vercel.app/api?username=koushikphy&count_private=true&show_icons=true&theme=dark)    
-![hi](https://github-readme-stats.vercel.app/api/wakatime?username=Koushik_Naskar&layout=compact&theme=dark)  
-![hi](https://github-readme-stats.vercel.app/api/top-langs/?username=koushikphy&layout=compact&theme=dark)  
-![hi](https://github-readme-streak-stats.herokuapp.com/?user=koushikphy&theme=dark)   
-![hi](https://komarev.com/ghpvc/?username=koushikphy)  
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=koushikphy&hide_border=true" />
+</details>
+
+<details>	
+  <summary><b>☄️ This week in coding</b></summary>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Koushik_Naskar&layout=compact&theme=dark" />
+</details>
+
+<!-- ![hi](https://github-readme-stats.vercel.app/api?username=koushikphy&count_private=true&show_icons=true&theme=dark)     -->
+<!-- ![hi](https://github-readme-stats.vercel.app/api/wakatime?username=Koushik_Naskar&layout=compact&theme=dark)   -->
+<!-- ![hi](https://github-readme-stats.vercel.app/api/top-langs/?username=koushikphy&layout=compact&theme=dark)   -->
+<!-- ![hi](https://github-readme-streak-stats.herokuapp.com/?user=koushikphy&theme=dark)    -->
