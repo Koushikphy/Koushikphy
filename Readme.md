@@ -2,7 +2,7 @@
 <img src="./va.gif" alt="GitHub Logo" width="125" height="125" />
 </div>
 <h1 align='center'> <img
-src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/'> Koushik Naskar </a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/'> Koushik Naskar </a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 <!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=koushikphy.koushikphy&style=flat-square&color=0088cc) -->
 ![hi](https://komarev.com/ghpvc/?username=koushikphy)  
