@@ -29,7 +29,7 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 
 <details>	
   <summary><b>☄️ This week in coding</b></summary>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Koushik_Naskar&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Koushik_Naskar&layout=compact" />
 </details>
 
 <!-- ![hi](https://github-readme-stats.vercel.app/api?username=koushikphy&count_private=true&show_icons=true&theme=dark)     -->
