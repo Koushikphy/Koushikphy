@@ -1,3 +1,4 @@
+![hi](https://komarev.com/ghpvc/?username=koushikphy)  
 <div align="center">
 <img src="./va.gif" alt="GitHub Logo" width="125" height="125" />
 </div>
@@ -5,7 +6,7 @@
 src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/'> Koushik Naskar </a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 <!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=koushikphy.koushikphy&style=flat-square&color=0088cc) -->
-![hi](https://komarev.com/ghpvc/?username=koushikphy)  
+
 
 <h3 align='center'>Physics ⭐| Mathamatics 💘| Programming 🔥</h3>
 <h3 align='center'>Python 💪| Flutter 🤟| HTML+CSS+JavaScript/ NodeJS 👌 | Fortran ✌️| C 🙏 | Julia 👍</h3>
