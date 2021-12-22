@@ -33,12 +33,12 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 * __[Interactive Data Editor](https://github.com/Koushikphy/Interactive_Data_Editor)__: A Software to interactively edit data in a graphical manner.
 * __[Shared Expense Manager](https://github.com/Koushikphy/Shared-Expense-Manager)__: An Android and iOS app for managing group shared expenses.
 * __[TeleBot](https://github.com/Koushikphy/TeleBot)__: A Telegram bot that keeps track of your computer jobs. 
-* __[PESMan](https://github.com/Koushikphy/PESMan)__: A program to manage global PES calculations.
-* __[BezierCurve](https://github.com/Koushikphy/BezierCurve)__: Visualizing Bézier Curve using De Casteljau's algorithm of recursive linear interpolation
 * __[System-Status-Checker](https://github.com/Koushikphy/System-Status-Checker)__: A webserver built with django to check system status of multiple PC/Workstation/Cluster in a single place.
 * __[COVID19-Browser-Extension](https://github.com/Koushikphy/COVID19-Browser-Extension)__: A chrome/firefox extension to quickly track the latest statistics regarding the Coronavirus disease.
-* __[Cubic-polynomial-property](https://github.com/Koushikphy/Neat-Cubic-polynomial-property)__: A neat Cubic polynomial property with cool visualizstion.
 * __[Django-ToDo-App](https://github.com/Koushikphy/Django-ToDo-App)__: A ToDo APP and API built with Django 3 and django-rest-framework.
+* __[PESMan](https://github.com/Koushikphy/PESMan)__: A program to manage global PES calculations.
+* __[BezierCurve](https://github.com/Koushikphy/BezierCurve)__: Visualizing Bézier Curve using De Casteljau's algorithm of recursive linear interpolation
+* __[Cubic-polynomial-property](https://github.com/Koushikphy/Neat-Cubic-polynomial-property)__: A neat Cubic polynomial property with cool visualizstion.
 
 ## You may find useful 🔎
 * __[Random-Knowledge](https://github.com/Koushikphy/Random-Knowledge)__: A collection of random computer codes, commands and cheat sheets.
