@@ -15,7 +15,7 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 ----------------
 
 
-## My Skills 🛠️
+## 🛠️ My Skills 
 - __Numerical Programming__: 
   * C, C++, Fortran, Python (NumPy, SciPy, Pandas, Scikit-Learn Matplotlib, Seaborn etc.)
 - __High Performance Computing__: 
@@ -29,7 +29,7 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 - __Androind & iOS App Development__: 
   * Flutter
 
-## Check out some of my projects 🌩️
+## 🌩️ Check out some of my projects 
 * __[Interactive Data Editor](https://github.com/Koushikphy/Interactive_Data_Editor)__: A Software to interactively edit data in a graphical manner.
 * __[Shared Expense Manager](https://github.com/Koushikphy/Shared-Expense-Manager)__: An Android and iOS app for managing group shared expenses.
 * __[TeleBot](https://github.com/Koushikphy/TeleBot)__: A Telegram bot that keeps track of your computer jobs. 
@@ -40,7 +40,7 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 * __[BezierCurve](https://github.com/Koushikphy/BezierCurve)__: Visualizing Bézier Curve using De Casteljau's algorithm of recursive linear interpolation
 * __[Cubic-polynomial-property](https://github.com/Koushikphy/Neat-Cubic-polynomial-property)__: A neat Cubic polynomial property with cool visualizstion.
 
-## You may find useful 🔎
+## 🔎 You may find useful 
 * __[Random-Knowledge](https://github.com/Koushikphy/Random-Knowledge)__: A collection of random computer codes, commands and cheat sheets.
 * __[FORTRAN-Topics](https://github.com/Koushikphy/FORTRAN-Topics)__: A collection of some fortran codes.
 
