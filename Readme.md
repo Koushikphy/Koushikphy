@@ -15,7 +15,7 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 ----------------
 
 
-## 🛠️ My Skills 
+## 🛠️ Skills 
 - __Numerical Programming__: 
   * C, C++, Fortran, Python (NumPy, SciPy, Pandas, Scikit-Learn Matplotlib, Seaborn etc.)
 - __High Performance Computing__: 
@@ -28,11 +28,14 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
   * Electron JS, Flutter
 - __Androind & iOS App Development__: 
   * Flutter
+- __Miscellaneous__:
+  * Bash, SQL, Git, Heroku
+
 
 ## 🌩️ Check out some of my projects 
 * __[Interactive Data Editor](https://github.com/Koushikphy/Interactive_Data_Editor)__: A Software to interactively edit data in a graphical manner.
 * __[Shared Expense Manager](https://github.com/Koushikphy/Shared-Expense-Manager)__: An Android and iOS app for managing group shared expenses.
-* __[TeleBot](https://github.com/Koushikphy/TeleBot)__: A Telegram bot that keeps track of your computer jobs. 
+* __[TeleJobRemibder](https://github.com/Koushikphy/TeleJobReminder)__: A Telegram bot that keeps track of your computer jobs. 
 * __[System-Status-Checker](https://github.com/Koushikphy/System-Status-Checker)__: A webserver built with django to check system status of multiple PC/Workstation/Cluster in a single place.
 * __[COVID19-Browser-Extension](https://github.com/Koushikphy/COVID19-Browser-Extension)__: A chrome/firefox extension to quickly track the latest statistics regarding the Coronavirus disease.
 * __[Django-ToDo-App](https://github.com/Koushikphy/Django-ToDo-App)__: A ToDo APP and API built with Django 3 and django-rest-framework.
