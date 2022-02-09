@@ -8,7 +8,7 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 <!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=koushikphy.koushikphy&style=flat-square&color=0088cc) -->
 
 
-<h3 align='center'>Physics ⭐| Mathamatics 💘| Programming 🔥</h3>
+<h3 align='center'>Physics ⭐| Mathematics 💘| Programming 🔥</h3>
 <h3 align='center'>Python 💪| Flutter 🤟| HTML+CSS+JavaScript/ NodeJS 👌 | Fortran ✌️| C 🙏 | Julia 👍</h3>
 <h3 align='center'>🕵️‍♂️ Busy automating my life 👨‍💻 </h3>  
 
@@ -26,7 +26,7 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
   * _Others_: Dash-Plotly, Streamlit
 - __Cross Platform Software Development__: 
   * Electron JS, Flutter
-- __Androind & iOS App Development__: 
+- __Android & iOS App Development__: 
   * Flutter
 - __Miscellaneous__:
   * Bash, SQL, Git, Heroku
@@ -35,13 +35,13 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 ## 🌩️ Check out some of my projects 
 * __[Interactive Data Editor](https://github.com/Koushikphy/Interactive_Data_Editor)__: A Software to interactively edit data in a graphical manner.
 * __[Shared Expense Manager](https://github.com/Koushikphy/Shared-Expense-Manager)__: An Android and iOS app for managing group shared expenses.
-* __[TeleJobRemibder](https://github.com/Koushikphy/TeleJobReminder)__: A Telegram bot that keeps track of your computer jobs. 
+* __[TeleJobReminder](https://github.com/Koushikphy/TeleJobReminder)__: A Telegram bot that keeps track of your computer jobs. 
 * __[System-Status-Checker](https://github.com/Koushikphy/System-Status-Checker)__: A webserver built with django to check system status of multiple PC/Workstation/Cluster in a single place.
 * __[COVID19-Browser-Extension](https://github.com/Koushikphy/COVID19-Browser-Extension)__: A chrome/firefox extension to quickly track the latest statistics regarding the Coronavirus disease.
 * __[Django-ToDo-App](https://github.com/Koushikphy/Django-ToDo-App)__: A ToDo APP and API built with Django 3 and django-rest-framework.
 * __[PESMan](https://github.com/Koushikphy/PESMan)__: A program to manage global PES calculations.
 * __[BezierCurve](https://github.com/Koushikphy/BezierCurve)__: Visualizing Bézier Curve using De Casteljau's algorithm of recursive linear interpolation
-* __[Cubic-polynomial-property](https://github.com/Koushikphy/Neat-Cubic-polynomial-property)__: A neat Cubic polynomial property with cool visualizstion.
+* __[Cubic-polynomial-property](https://github.com/Koushikphy/Neat-Cubic-polynomial-property)__: A neat Cubic polynomial property with cool visualization.
 
 ## 🔎 You may find useful 
 * __[Random-Knowledge](https://github.com/Koushikphy/Random-Knowledge)__: A collection of random computer codes, commands and cheat sheets.
