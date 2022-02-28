@@ -59,6 +59,8 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=koushikphy&hide_border=true" />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </details>
 
 <!-- <details>	
