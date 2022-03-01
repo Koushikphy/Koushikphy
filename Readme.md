@@ -57,99 +57,19 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Koushik_Naskar&layout=compact&custom_title=Weekly%20Coding%20Stats&min_seconds=300&hide_border=true" />
 
 <details>	
-  <summary><b>☄️ Github Streaks</b></summary>
+  <summary><b> 🔥 Github Streaks</b></summary>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=koushikphy&hide_border=true" />
- 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 262 Contributions in the Year 2022
- > 
-> 📦 291.3 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 39 Public Repositories 
- > 
-> 🔑 21 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    159 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.53% 
-🌆 Daytime    227 commits    █████░░░░░░░░░░░░░░░░░░░░   22.17% 
-🌃 Evening    501 commits    ████████████░░░░░░░░░░░░░   48.93% 
-🌙 Night      137 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.38%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       150 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.65% 
-Tuesday      175 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.09% 
-Wednesday    159 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.53% 
-Thursday     125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.21% 
-Friday       130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.7% 
-Saturday     140 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.67% 
-Sunday       145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.16%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-HTML                     6 hrs               ██████░░░░░░░░░░░░░░░░░░░   26.7% 
-YAML                     5 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   23.11% 
-Python                   3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-JavaScript               2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.58% 
-Fortran                  1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.52%
-
-🔥 Editors: 
-VS Code                  22 hrs 30 mins      █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-Unknown Project          12 hrs 23 mins      █████████████░░░░░░░░░░░░   55.04% 
-test                     3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.07% 
-interactive_data_editor  3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.88% 
-koutils                  1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.5% 
-MyWebsite                16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21%
-
-💻 Operating System: 
-Windows                  14 hrs 7 mins       ███████████████░░░░░░░░░░   62.74% 
-Linux                    8 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   37.26%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   16 repos            ███████░░░░░░░░░░░░░░░░░░   31.37% 
-JavaScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   19.61% 
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
-Fortran                  8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
-Dart                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Koushikphy/Koushikphy/master/charts/bar_graph.png) 
-
-
- Last Updated on 01/03/2022 04:41:25 UTC
-<!--END_SECTION:waka-->
- 
 </details>
 
+
+<details>	
+  <summary><b> 🛸 More...</b></summary>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
+
+
+ 
 <!-- <details>	
   <summary><b>👨‍💻️ This week in coding</b></summary>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Koushik_Naskar&layout=compact&custom_title=Weekly%20Coding%20Stats&min_seconds=300" />
