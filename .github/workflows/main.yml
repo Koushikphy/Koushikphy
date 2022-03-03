@@ -6,7 +6,7 @@ name: CI
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   schedule:
-    - cron: "3 3 * * sun"
+    - cron: "3 3 * * SUN"
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -26,11 +26,14 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_PROFILE_VIEWS: "False"
           COMMIT_BY_ME : "True"
           SHOW_UPDATED_DATE : "False"
           SHOW_LINES_OF_CODE : "True"
-          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_DAYS_OF_WEEK: "False"
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_LOC_CHART: "False"
           SHOW_EDITORS: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_TIMEZONE: "False"

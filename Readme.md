@@ -54,7 +54,9 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koushikphy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikphy&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Koushik_Naskar&layout=compact&custom_title=Weekly%20Coding%20Stats&min_seconds=300&hide_border=true" />
+
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Koushik_Naskar&layout=compact&custom_title=Weekly%20Coding%20Stats&min_seconds=300&hide_border=true" /> -->
 
 <details>	
   <summary><b> 🔥 Github Streaks</b></summary>
@@ -64,10 +66,13 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 
 <details>	
   <summary><b> 🛸 More...</b></summary>
+
+
   <!--START_SECTION:waka-->
+
+  
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C920%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-83-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -92,19 +97,6 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 🌙 Night      137 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.41%
 
 ```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       142 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
-Tuesday      178 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.42% 
-Wednesday    162 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.85% 
-Thursday     126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.33% 
-Friday       130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
-Saturday     140 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.7% 
-Sunday       144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.09%
-
-```
-
 
 📊 **This Week I Spent My Time On** 
 
@@ -137,6 +129,9 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+
+
 </details>
 
 
