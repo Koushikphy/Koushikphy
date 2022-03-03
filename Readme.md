@@ -53,19 +53,13 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 ### ⚡ Github Stats
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=koushikphy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikphy&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=koushikphy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Koushik_Naskar&layout=compact&custom_title=This%20Week%20I%20Spent%20My%20Time%20on&min_seconds=300&hide_border=true&langs_count=8&hide_progress=true" /> 
+
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikphy&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
 
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Koushik_Naskar&layout=compact&custom_title=Weekly%20Coding%20Stats&min_seconds=300&hide_border=true" /> -->
 
-<details>	
-  <summary><b> 🔥 Github Streaks</b></summary>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=koushikphy&hide_border=true" />
-</details>
-
-
-<details>	
-  <summary><b> 🛸 More...</b></summary>
 
 
   <!--START_SECTION:waka-->
@@ -74,19 +68,7 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C920%20hrs%2040%20mins-blue)
 
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 261 Contributions in the Year 2022
- > 
-> 📦 291.4 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 39 Public Repositories 
- > 
-> 🔑 21 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -95,23 +77,6 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 🌆 Daytime    223 commits    █████░░░░░░░░░░░░░░░░░░░░   21.82% 
 🌃 Evening    500 commits    ████████████░░░░░░░░░░░░░   48.92% 
 🌙 Night      137 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.41%
-
-```
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-HTML                     5 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   36.65% 
-Python                   4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   28.08% 
-Fortran                  1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.99% 
-Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.3% 
-JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
-
-🔥 Editors: 
-VS Code                  15 hrs 35 mins      █████████████████████████   100.0%
 
 ```
 
@@ -131,12 +96,18 @@ Dart                     3 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-
+<details>	
+  <summary><b> 🔥 Github Streaks</b></summary>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=koushikphy&hide_border=true" />
 </details>
+
+
 
 
  
 <!-- <details>	
+
+
   <summary><b>👨‍💻️ This week in coding</b></summary>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Koushik_Naskar&layout=compact&custom_title=Weekly%20Coding%20Stats&min_seconds=300" />
 </details> -->
