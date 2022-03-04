@@ -54,7 +54,7 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=koushikphy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Koushik_Naskar&layout=compact&custom_title=This%20Week%20I%20Spent%20My%20Time%20on&min_seconds=300&hide_border=true&langs_count=8&hide_progress=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=koushikphy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /><img  height="180em"  src="https://github-readme-stats.vercel.app/api/wakatime?username=Koushik_Naskar&layout=compact&custom_title=This%20Week%20I%20Spent%20My%20Time%20on&min_seconds=300&hide_border=true&langs_count=8&hide_progress=true" /> 
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikphy&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
 
