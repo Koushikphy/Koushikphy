@@ -86,11 +86,6 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
 **I Mostly Code in Python** 
 
 ```text
