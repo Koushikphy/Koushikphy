@@ -36,16 +36,20 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 * __[Interactive Data Editor](https://github.com/Koushikphy/Interactive_Data_Editor)__: A Software to interactively edit data in a graphical manner.
 * __[Shared Expense Manager](https://github.com/Koushikphy/Shared-Expense-Manager)__: An Android and iOS app for managing group shared expenses.
 * __[TeleJobReminder](https://github.com/Koushikphy/TeleJobReminder)__: A Telegram bot that keeps track of your computer jobs. 
+* __[TeleSpy](https://github.com/Koushikphy/TeleSpy)__: Take Photo/Audio/Video from webcam by remotely controlling it using a Telegram bot.
 * __[System-Status-Checker](https://github.com/Koushikphy/System-Status-Checker)__: A webserver built with django to check system status of multiple PC/Workstation/Cluster in a single place.
+* __[MinimalJournal](https://github.com/Koushikphy/MinimalJournal)__: A Journal/Diary App/API based on django & django-rest-framework.
 * __[COVID19-Browser-Extension](https://github.com/Koushikphy/COVID19-Browser-Extension)__: A chrome/firefox extension to quickly track the latest statistics regarding the Coronavirus disease.
 * __[Django-ToDo-App](https://github.com/Koushikphy/Django-ToDo-App)__: A ToDo APP and API built with Django 3 and django-rest-framework.
 * __[PESMan](https://github.com/Koushikphy/PESMan)__: A program to manage global PES calculations.
+* __[ADT-Program](https://github.com/AdhikariLAB/ADT-Program)__: A Generalized Algorithm and Program for Beyond Born-Oppenheimer Equations of ‘N’ Dimensional Sub-Hilbert Space.
+* __[FunWithCanvas](https://github.com/Koushikphy/FunWithCanvas)__: Creative animation with HTML5 Canvas.
 * __[BezierCurve](https://github.com/Koushikphy/BezierCurve)__: Visualizing Bézier Curve using De Casteljau's algorithm of recursive linear interpolation
 * __[Cubic-polynomial-property](https://github.com/Koushikphy/Neat-Cubic-polynomial-property)__: A neat Cubic polynomial property with cool visualization.
 
 ## 🔎 You may find useful 
 * __[Random-Knowledge](https://github.com/Koushikphy/Random-Knowledge)__: A collection of random computer codes, commands and cheat sheets.
-* __[FORTRAN-Topics](https://github.com/Koushikphy/FORTRAN-Topics)__: A collection of some fortran codes.
+* __[FORTRAN-Topics](https://github.com/Koushikphy/FORTRAN-Topics)__: A collection of some Fortran codes.
 
 ----------------
 <!-- [![My Trophy](https://github-profile-trophy.vercel.app/?username=koushikphy&theme=nord&margin-w=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)   -->
@@ -54,57 +58,9 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=koushikphy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /><img  height="180em"  src="https://github-readme-stats.vercel.app/api/wakatime?username=Koushik_Naskar&layout=compact&custom_title=This%20Week%20I%20Spent%20My%20Time%20on&min_seconds=300&hide_border=true&langs_count=8&hide_progress=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=koushikphy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikphy&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api/wakatime?username=Koushik_Naskar&layout=compact&custom_title=This%20Week%20I%20Spent%20My%20Time%20on&min_seconds=300&hide_border=true&langs_count=8&hide_progress=true" /> 
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikphy&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
-
-
-
-
-
-  <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 🏆 241 Contributions in the Year 2022
- > 
-> 📦 286.8 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 38 Public Repositories 
- > 
-> 🔑 20 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    152 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
-🌆 Daytime    226 commits    █████░░░░░░░░░░░░░░░░░░░░   22.62% 
-🌃 Evening    493 commits    ████████████░░░░░░░░░░░░░   49.35% 
-🌙 Night      128 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.81%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   16 repos            ███████░░░░░░░░░░░░░░░░░░   31.37% 
-HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   19.61% 
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
-Fortran                  8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
-Dart                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
-
-```
-
-
-
-<!--END_SECTION:waka-->
 
 
 <details>	
