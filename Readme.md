@@ -56,8 +56,8 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 
 ### ⚡ Github Stats
 
-<a href="https://metrics.lecoq.io/about/koushikphy"><img src="info-metrics.svg" width="47.5%"></img></a>
-<a href="https://metrics.lecoq.io/about/koushikphy"><img src="achievements-metrics.svg" width="47.5%"></img></a>
+<a href="https://metrics.lecoq.io/about/koushikphy"><img src="info-metrics.svg" width="49%"></img></a>
+<a href="https://metrics.lecoq.io/about/koushikphy"><img src="achievements-metrics.svg" width="49%"></img></a>
 
 
 
