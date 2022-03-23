@@ -48,7 +48,9 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 * __[Cubic-polynomial-property](https://github.com/Koushikphy/Neat-Cubic-polynomial-property)__: A neat Cubic polynomial property with cool visualization.
 
 ## 🔎 You may find useful 
-* __[Random-Knowledge](https://github.com/Koushikphy/Random-Knowledge)__: A collection of random computer codes, commands and cheat sheets.
+* __[CheatSheets](https://github.com/Koushikphy/CheatSheets)__: A collection of random cheat sheets for a quick reference.
+* __[Better-Linux](https://github.com/Koushikphy/Better-Linux)__: Commands, tools & know-how to work with Linux in a better way.
+* __[Numerical Analysis Problems](https://github.com/Koushikphy/Numerical-Analysis-Problems)__: Programming problems for numerical analysis course.
 * __[FORTRAN-Topics](https://github.com/Koushikphy/FORTRAN-Topics)__: A collection of some Fortran codes.
 
 ----------------
