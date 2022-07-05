@@ -29,7 +29,7 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 - __Android & iOS App Development__: 
   * Flutter
 - __Miscellaneous__:
-  * Bash, SQL, Git, Heroku
+  * Bash, SQL, Git, LaTeX, YAML, Heroku
 
 
 ## 🌩️ Check out some of my projects 
