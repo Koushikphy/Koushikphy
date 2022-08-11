@@ -17,9 +17,9 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 
 ## 🛠️ Skills 
 - __Numerical Programming__: 
-  * C, C++, Fortran, Python (NumPy, SciPy, Pandas, Scikit-Learn Matplotlib, Seaborn etc.)
+  * C, C++, Fortran, Python (NumPy, SciPy, Pandas, Scikit-Learn, Matplotlib, Seaborn etc.)
 - __High Performance Computing__: 
-  * OpenMP, MPI, Job Scheduler (PBS, Slurm)
+  * OpenMP, MPI, CUDA, Job Scheduler (PBS, Slurm)
 - __Full Stack Web development__: 
   * _Front-end_: HTML, CSS, Javascript, React-Next JS
   * _Backend_: NodeJS, Django, Flask
