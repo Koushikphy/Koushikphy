@@ -82,7 +82,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 752k out of 96m users</span>
+                                    <span class="gh">ranked 753k out of 96m users</span>
                                 </div>
                                 <div class="text">Published 39 public repositories</div>
                             </div>
@@ -278,7 +278,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.07m out of 334m repositories</span>
+                                    <span class="gh">ranked 1.07m out of 335m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 8 times</div>
                             </div>
@@ -334,7 +334,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="4.034034034034034 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="4.1891891891891895 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -357,9 +357,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 732k out of 334m repositories</span>
+                                    <span class="gh">ranked 714k out of 335m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 27 stars</div>
+                                <div class="text">Maintaining a repository with 28 stars</div>
                             </div>
                         </div>
                         <div class="achievement secret largeable-width-half">
