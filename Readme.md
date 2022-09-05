@@ -37,11 +37,12 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 * __[Shared Expense Manager](https://github.com/Koushikphy/Shared-Expense-Manager)__: An Android and iOS app for managing group shared expenses.
 * __[TeleJobReminder](https://github.com/Koushikphy/TeleJobReminder)__: A Telegram bot that keeps track of your computer jobs. 
 * __[TeleSpy](https://github.com/Koushikphy/TeleSpy)__: Take Photo/Audio/Video from webcam by remotely controlling it using a Telegram bot.
+* __[TelePriceTracker](https://github.com/Koushikphy/Tele-Price-Tracker): A Telegram bot that keeps track of prices for your products.
 * __[System-Status-Checker](https://github.com/Koushikphy/System-Status-Checker)__: A webserver built with django to check system status of multiple PC/Workstation/Cluster in a single place.
 * __[MinimalJournal](https://github.com/Koushikphy/MinimalJournal)__: A Journal/Diary App/API based on django & django-rest-framework.
 * __[COVID19-Browser-Extension](https://github.com/Koushikphy/COVID19-Browser-Extension)__: A chrome/firefox extension to quickly track the latest statistics regarding the Coronavirus disease.
 * __[Django-ToDo-App](https://github.com/Koushikphy/Django-ToDo-App)__: A ToDo APP and API built with Django 3 and django-rest-framework.
-* __[PESMan](https://github.com/Koushikphy/PESMan)__: A program to manage global PES calculations.
+* __[PESMan](https://github.com/Koushikphy/PESMan)__: A program to manage global Potential Energy Surface calculations.
 * __[ADT-Program](https://github.com/AdhikariLAB/ADT-Program)__: A Generalized Algorithm and Program for Beyond Born-Oppenheimer Equations of ‘N’ Dimensional Sub-Hilbert Space.
 * __[FunWithCanvas](https://github.com/Koushikphy/FunWithCanvas)__: Creative animation with HTML5 Canvas.
 * __[BezierCurve](https://github.com/Koushikphy/BezierCurve)__: Visualizing Bézier Curve using De Casteljau's algorithm of recursive linear interpolation
