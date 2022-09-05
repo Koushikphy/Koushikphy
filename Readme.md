@@ -37,7 +37,7 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 * __[Shared Expense Manager](https://github.com/Koushikphy/Shared-Expense-Manager)__: An Android and iOS app for managing group shared expenses.
 * __[TeleJobReminder](https://github.com/Koushikphy/TeleJobReminder)__: A Telegram bot that keeps track of your computer jobs. 
 * __[TeleSpy](https://github.com/Koushikphy/TeleSpy)__: Take Photo/Audio/Video from webcam by remotely controlling it using a Telegram bot.
-* __[TelePriceTracker](https://github.com/Koushikphy/Tele-Price-Tracker): A Telegram bot that keeps track of prices for your products.
+* __[TelePriceTracker](https://github.com/Koushikphy/Tele-Price-Tracker)__: A Telegram bot that keeps track of prices for your products.
 * __[System-Status-Checker](https://github.com/Koushikphy/System-Status-Checker)__: A webserver built with django to check system status of multiple PC/Workstation/Cluster in a single place.
 * __[MinimalJournal](https://github.com/Koushikphy/MinimalJournal)__: A Journal/Diary App/API based on django & django-rest-framework.
 * __[COVID19-Browser-Extension](https://github.com/Koushikphy/COVID19-Browser-Extension)__: A chrome/firefox extension to quickly track the latest statistics regarding the Coronavirus disease.
