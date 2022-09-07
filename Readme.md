@@ -21,7 +21,7 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 - __High Performance Computing__: 
   * OpenMP, MPI, CUDA, Job Scheduler (PBS, Slurm)
 - __Full Stack Web development__: 
-  * _Front-end_: HTML, CSS, Javascript, React-Next JS
+  * _Front-end_: HTML, CSS, JavaScript, React-Next JS
   * _Backend_: NodeJS, Django, Flask
   * _Others_: Dash-Plotly, Streamlit
 - __Cross Platform Software Development__: 
@@ -38,9 +38,10 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 * __[TeleJobReminder](https://github.com/Koushikphy/TeleJobReminder)__: A Telegram bot that keeps track of your computer jobs. 
 * __[TeleSpy](https://github.com/Koushikphy/TeleSpy)__: Take Photo/Audio/Video from webcam by remotely controlling it using a Telegram bot.
 * __[TelePriceTracker](https://github.com/Koushikphy/Tele-Price-Tracker)__: A Telegram bot that keeps track of prices for your products.
-* __[System-Status-Checker](https://github.com/Koushikphy/System-Status-Checker)__: A webserver built with django to check system status of multiple PC/Workstation/Cluster in a single place.
-* __[MinimalJournal](https://github.com/Koushikphy/MinimalJournal)__: A Journal/Diary App/API based on django & django-rest-framework.
-* __[COVID19-Browser-Extension](https://github.com/Koushikphy/COVID19-Browser-Extension)__: A chrome/firefox extension to quickly track the latest statistics regarding the Coronavirus disease.
+* __[System-Status-Checker](https://github.com/Koushikphy/System-Status-Checker)__: A webserver built with Django to check system status of multiple PC/Workstation/Cluster in a single place.
+* __[Open Image](https://github.com/Koushikphy/Open-Image)__: A Chrome/Firefox extension to open product review images in full screen
+* __[MinimalJournal](https://github.com/Koushikphy/MinimalJournal)__: A Journal/Diary App/API based on Django & django-rest-framework.
+* __[COVID19-Browser-Extension](https://github.com/Koushikphy/COVID19-Browser-Extension)__: A Chrome/Firefox extension to quickly track the latest statistics regarding the Coronavirus disease.
 * __[Django-ToDo-App](https://github.com/Koushikphy/Django-ToDo-App)__: A ToDo APP and API built with Django 3 and django-rest-framework.
 * __[PESMan](https://github.com/Koushikphy/PESMan)__: A program to manage global Potential Energy Surface calculations.
 * __[ADT-Program](https://github.com/AdhikariLAB/ADT-Program)__: A Generalized Algorithm and Program for Beyond Born-Oppenheimer Equations of ‘N’ Dimensional Sub-Hilbert Space.
@@ -57,7 +58,7 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 ----------------
 <!-- [![My Trophy](https://github-profile-trophy.vercel.app/?username=koushikphy&theme=nord&margin-w=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)   -->
 
-### ⚡ Github Stats
+### ⚡ GitHub Stats
 
 <a href="https://metrics.lecoq.io/about/koushikphy"><img src="info-metrics.svg" width="49%"></img></a>
 <a href="https://metrics.lecoq.io/about/koushikphy"><img src="achievements-metrics.svg" width="49%"></img></a>
