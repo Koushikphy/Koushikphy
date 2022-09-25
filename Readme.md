@@ -19,7 +19,7 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 - __Numerical Programming__: 
   * C, C++, Fortran, Python (NumPy, SciPy, Pandas, Scikit-Learn, Matplotlib, Seaborn etc.)
 - __High Performance Computing__: 
-  * OpenMP, MPI, CUDA, Job Scheduler (PBS, Slurm)
+  * OpenMP, MPI, GPU (CUDA), Job Scheduler (PBS, Slurm)
 - __Full Stack Web development__: 
   * _Front-end_: HTML, CSS, JavaScript, React-Next JS
   * _Backend_: NodeJS, Django, Flask
@@ -29,7 +29,7 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 - __Android & iOS App Development__: 
   * Flutter
 - __Miscellaneous__:
-  * Bash, SQL, Git, LaTeX, YAML, Heroku
+  * Bash, SQL, Git, LaTeX, CI/CD
 
 
 ## 🌩️ Check out some of my projects 
@@ -44,7 +44,7 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 * __[COVID19-Browser-Extension](https://github.com/Koushikphy/COVID19-Browser-Extension)__: A Chrome/Firefox extension to quickly track the latest statistics regarding the Coronavirus disease.
 * __[Django-ToDo-App](https://github.com/Koushikphy/Django-ToDo-App)__: A ToDo APP and API built with Django 3 and django-rest-framework.
 * __[PESMan](https://github.com/Koushikphy/PESMan)__: A program to manage global Potential Energy Surface calculations.
-* __[ADT-Program](https://github.com/AdhikariLAB/ADT-Program)__: A Generalized Algorithm and Program for Beyond Born-Oppenheimer Equations of ‘N’ Dimensional Sub-Hilbert Space.
+* __[ADT-Program](https://github.com/AdhikariLAB/ADT-Program)__: A Generalized Algorithm/Program for Beyond Born-Oppenheimer Equations of ‘N’ Dimensional Sub-Hilbert Space.
 * __[FunWithCanvas](https://github.com/Koushikphy/FunWithCanvas)__: Creative animation with HTML5 Canvas.
 * __[BezierCurve](https://github.com/Koushikphy/BezierCurve)__: Visualizing Bézier Curve using De Casteljau's algorithm of recursive linear interpolation
 * __[Cubic-polynomial-property](https://github.com/Koushikphy/Neat-Cubic-polynomial-property)__: A neat Cubic polynomial property with cool visualization.
