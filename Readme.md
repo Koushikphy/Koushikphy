@@ -42,6 +42,7 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 * __[Open Image](https://github.com/Koushikphy/Open-Image)__: A Chrome/Firefox extension to open product review images in full screen
 * __[mfig](https://github.com/Koushikphy/mfig)__: A tool for merging multiple figures into one
 * __[kfutils](https://github.com/Koushikphy/kfutils)__: A tool for common data file operations.
+* __[kbib](https://github.com/Koushikphy/kbib)__: A tool to get bibtex entries from DOIs or PDFs.
 * __[MinimalJournal](https://github.com/Koushikphy/MinimalJournal)__: A Journal/Diary App/API based on Django & django-rest-framework.
 * __[COVID19-Browser-Extension](https://github.com/Koushikphy/COVID19-Browser-Extension)__: A Chrome/Firefox extension to quickly track the latest statistics regarding the Coronavirus disease.
 * __[Django-ToDo-App](https://github.com/Koushikphy/Django-ToDo-App)__: A ToDo APP and API built with Django 3 and django-rest-framework.
