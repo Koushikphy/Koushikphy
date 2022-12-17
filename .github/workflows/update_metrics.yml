@@ -24,20 +24,15 @@ jobs:
           plugin_people_size: 28
           plugin_people_types: followers, following
           plugin_wakatime: no
-          plugin_notable: yes
+          filename: info-metrics.svg
 
   info-metrics2:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          # Options
-          user: koushikphy
-          template: classic
-          base: header, activity, repositories
-          config_timezone: Asia/Calcutta
-          plugin_achievements: no
+          token: NOT_NEEDED
+          base: ""
           plugin_wakatime: yes
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
