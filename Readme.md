@@ -48,6 +48,7 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 * __[Django-ToDo-App](https://github.com/Koushikphy/Django-ToDo-App)__: A ToDo APP and API built with Django 3 and django-rest-framework.
 * __[PESMan](https://github.com/Koushikphy/PESMan)__: A program to manage global Potential Energy Surface calculations.
 * __[ADT-Program](https://github.com/AdhikariLAB/ADT-Program)__: A Generalized Algorithm/Program for Beyond Born-Oppenheimer Equations of ‘N’ Dimensional Sub-Hilbert Space.
+* __[Web-Printer](https://github.com/Koushikphy/Web-Printer)__: Make printers without Ethernet or Wifi connection available on LAN.
 * __[FunWithCanvas](https://github.com/Koushikphy/FunWithCanvas)__: Creative animation with HTML5 Canvas.
 * __[BezierCurve](https://github.com/Koushikphy/BezierCurve)__: Visualizing Bézier Curve using De Casteljau's algorithm of recursive linear interpolation
 * __[Cubic-polynomial-property](https://github.com/Koushikphy/Neat-Cubic-polynomial-property)__: A neat Cubic polynomial property with cool visualization.
