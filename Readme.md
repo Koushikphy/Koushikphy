@@ -16,12 +16,14 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 
 
 ## 🛠️ Skills 
-- __Numerical Programming__: 
-  * C, C++, Fortran, Python (NumPy, SciPy, Pandas, Scikit-Learn, Matplotlib, Seaborn etc.)
+- __Numerical Programming__:  
+  * C, C++, Fortran, Python (NumPy, SciPy, Pandas, Matplotlib, Seaborn etc.)  
+- __Machine Learning & Data Science__:  
+  * Scikit-Learn, Pytorch, Neural Network, Deep learning, CNN, NLP, Predictive Analysis  
 - __High Performance Computing__: 
   * OpenMP, MPI, GPU (CUDA), Job Scheduler (PBS, Slurm)
 - __Full Stack Web development__: 
-  * _Front-end_: HTML, CSS, JavaScript, React-Next JS
+  * _Front-end_: HTML, CSS, Javascript, React-Next JS
   * _Backend_: NodeJS, Django, Flask
   * _Others_: Dash-Plotly, Streamlit
 - __Cross Platform Software Development__: 
@@ -29,7 +31,7 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 - __Android & iOS App Development__: 
   * Flutter
 - __Miscellaneous__:
-  * Bash, SQL, Git, LaTeX, CI/CD
+  * Bash, SQL, Git, CI/CD, Cloud Deployment etc.
 
 
 ## 🌩️ Check out some of my projects 
