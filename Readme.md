@@ -9,7 +9,7 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 
 
 <h3 align='center'>Physics ⭐| Mathematics 💘| Programming 🔥</h3>
-<h3 align='center'>Python 💪| Flutter 🤟| HTML+CSS+JavaScript/ NodeJS 👌 | Fortran ✌️| C 🙏 | Julia 👍</h3>
+<h3 align='center'>Python 💪| C/C++ 🙏| Fortran ✌️| Flutter 🤟| HTML+CSS+ JavaScript/NodeJS 👌 </h3>
 <h3 align='center'>🕵️‍♂️ Busy automating my life 👨‍💻 </h3>  
 
 ----------------
