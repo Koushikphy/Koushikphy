@@ -70,6 +70,7 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
 <a href="https://metrics.lecoq.io/about/koushikphy"><img src="achievements-metrics.svg" width="49%"></img></a>
 <a href="https://metrics.lecoq.io/about/koushikphy"><img src="waka-metrics.svg" width="49%"></img></a>
 
+<!--
 
 <details>	
   <summary><b>...</b></summary>
@@ -81,15 +82,15 @@ src="Hi.gif" height="30" /> Hi there, I'm <a href='https://koushikphy.github.io/
   <summary><b> 🔥 Github Streaks</b></summary>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=koushikphy&hide_border=true" />
 </details>
+-->
 
 
 
+<details>	
+  <summary><b> 🔥 Github Stats</b></summary>
+<img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=koushikphy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="47.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=koushikphy&hide_border=true" />
+</details>
 
- 
-<!-- <details>	
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikphy&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
-  <summary><b>👨‍💻️ This week in coding</b></summary>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Koushik_Naskar&layout=compact&custom_title=Weekly%20Coding%20Stats&min_seconds=300" />
-</details> -->
